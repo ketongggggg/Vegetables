@@ -1,0 +1,160 @@
+body {
+    margin: 0px;
+}
+
+.background {
+    width: 1260px;
+    height: 880px;
+    margin: auto;
+    background-color: #EDF2C5;
+}
+
+h1 {
+    font-family: "Arial Black";
+    font-size: 44px;
+    padding-top: 30px;
+    padding-bottom: 8px;
+    margin: 0px 0px 0px 160px;
+    color: #778A50;
+}
+
+.icon {
+    display: flex;
+    float: right;
+    margin: -44px 160px 0px 0px; 
+}
+
+.FB {
+    height: 25px;
+    float: right;
+}
+
+.IG {
+    height: 25px;
+    float: right;
+    margin: 0px 10px 0px 10px;
+}
+
+.line {
+    height: 25px;
+    border-right: 1px solid #778A50;
+}
+
+.LOGIN {
+    font-weight: bold;
+    font-size: 14px;
+    width: 60px;
+    height: 25px;
+    border: 1px solid #778A50;
+    border-radius: 4px;
+    margin: 0px 10px 0px 10px;
+    color: #778A50;
+    background-color: transparent;
+}
+
+.JOIN {
+    font-weight: bold;
+    font-size: 14px;
+    width: 49px;
+    height: 25px;
+    border: 1px solid #778A50;
+    border-radius: 4px;
+    color: #778A50;
+    background-color: transparent;
+}
+
+.nav {
+    border-radius: 3px;
+    width: 940px;
+    height: 44px;
+    margin: 0px 0px 20px 160px;
+    background-color: #778A50;
+}
+
+.list {
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+}
+
+.listing {
+    display: block;
+    font-family: "Arial Black";
+    font-size: 16px;
+    padding: 10px 30px;
+    color: #EDF2C5;
+}
+
+.pumpkin {
+    width: 940px;
+    height: 440px;
+    margin-left: 160px;
+}
+
+.left {
+    border-radius: 3px;
+    width: 415px;
+    height: 15px;
+    font-family: "Arial Black";
+    font-size: 16px;
+    margin: 30px 0px 15px 160px;
+    padding: 10px 0px 20px 30px;
+    color: #EDF2C5;
+    background-color: #778A50;
+}
+
+.images {
+    margin-left: 156px;
+}
+
+.img {
+    width: 140px;
+    height: 140px;
+    margin: 0px 3px 30px 5px;
+}
+
+.right {
+    border-radius: 3px;
+    width: 415px;
+    height: 15px;
+    font-family: "Arial Black";
+    font-size: 16px;
+    float: right;
+    margin: -234px 160px 0px 0px;
+    padding: 10px 0px 20px 30px;
+    color: #EDF2C5;
+    background-color: #778A50;
+}
+
+.contact {
+    font-family: Arial;
+    font-size: 12px;
+    width: 430px;
+    height: 140px;
+    float: right;
+    padding: 0px 0px 0px 15px;
+    margin: -174px 160px 0px 0px;
+    color: #7d7d7d;
+    background-color: #F7FBDA;
+}
+
+.line_contact {
+    width: 414px;
+    border-bottom: 1px solid #7d7d7d;
+    margin: 16px 0px 16px 0px;
+    color: #7D7D7D;
+}
+
+.box_footer {
+    width: 1260px;
+    height: 60px;
+    background-color: #778A50;
+}
+
+.footer {
+    font-family: Arial;
+    font-size: 12px;
+    padding: 10px 0px 10px 0px;
+    text-align: center;
+    color: #EDF2C5;
+}
